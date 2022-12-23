@@ -1,0 +1,28 @@
+{
+  "name": "docker-ubuntu-ssh",
+  "version": "1.0.0",
+  "description": "ubuntu ssh docker image",
+  "main": "src/tty-me.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyclever/docker-ubuntu-ssh.git"
+  },
+  "keywords": [
+    "ubuntu",
+    "ssh",
+    "docker",
+    "image"
+  ],
+  "author": "boy_clever@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boyclever/docker-ubuntu-ssh/issues"
+  },
+  "homepage": "https://github.com/boyclever/docker-ubuntu-ssh#readme",
+  "dependencies": {
+    "tty.js": "^0.2.15"
+  }
+}
